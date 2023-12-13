@@ -4,21 +4,6 @@ Welcome to [my profile](https://github.com/cactusninjaa)
 
 My name is *Thomas*, I am a french student in web development at [IIM school](https://www.iim.fr/) in **La Défense, France**
 
-<br>
-
-***
-
-<br>
-
-
-## :bulb: Some facts about me
-1. :motorcycle: I am a motorcycle fan
-2. :clapper:	My favorite movie is [La Haine](https://www.senscritique.com/film/la_haine/472094) by Mathieu Kassovitz
-3. :pick: I often listen to [Minecraft music](https://open.spotify.com/playlist/06tCWiOWTnuTfoKwHB8Byl?si=01d26702430640aa) when I am working
-
-<br>
-
-***
 
 <br>
 
@@ -39,24 +24,6 @@ My name is *Thomas*, I am a french student in web development at [IIM school](ht
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cactusninjaa&layout=compact&card_width=400&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cactusnijaa's Top Languages" >
 
 <br>
-
-***
-
-<br>
-
-## :brain: A little quot
-
-> 
->"Be yourself; everyone else is already taken."
-><p align="right">Oscar Wild</p>
-
-<br>
-
-***
-
-<br>
-
-
 
 ## :mag: You can find me there
 
