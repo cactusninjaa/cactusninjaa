@@ -22,7 +22,7 @@ My name is *Thomas*, I am a french student in web development at [IIM school](ht
 
 <br>
 
-## I'm currently learning:
+## I'm currently learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFF)
 ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=white)
