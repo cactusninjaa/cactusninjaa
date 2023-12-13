@@ -7,15 +7,12 @@ Welcome to [my profile](https://github.com/cactusninjaa)
 - 📘 I am a french student in web development at [IIM school](https://www.iim.fr/) in **La Défense, France**
 - 🔍 Looking for an internship for next year
 - 📫 Contact me here **thomas.sauvage@edu.devinci.fr**
-  
-
 
 <br>
 
 ## I'm currently learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFF)
-![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
