@@ -1,8 +1,13 @@
-# 👋 Hey there
+# 👋 Hey there i'm Thomas Sauvage
 
 Welcome to [my profile](https://github.com/cactusninjaa)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cactusninjaa&label=Profile%20views&color=0e75b6&style=flat" alt="cactusninjaa" /> </p>
 
-My name is *Thomas*, I am a french student in web development at [IIM school](https://www.iim.fr/) in **La Défense, France**
+
+- 📘 I am a french student in web development at [IIM school](https://www.iim.fr/) in **La Défense, France**
+- 🔍 Looking for an internship for next year
+- 📫 Contact me here **thomas.sauvage@edu.devinci.fr**
+  
 
 
 <br>
